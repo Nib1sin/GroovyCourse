@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bffda28-f10b-49d8-adbb-76bf44e877b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../12. Web_Services/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/builder/Developer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/builder/default.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/canonical/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/canonical/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/clone/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/clone/clonedemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/compile/SomeClass.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/equals/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/equals/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/immutable/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/immutable/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/singleton/DatabaseConnection.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/singleton/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/sorted/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/sorted/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/tostring/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/tostring/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/tuple/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/tuple/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/typechecked/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/src/typechecked/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ast/transformations/transformations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/annotations/Customer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/annotations/HomeController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/annotations/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/assertions/assertions.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/ast_exercise/CanonicalDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/ast_exercise/SortableDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/class_exercise/Tweet.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/class_exercise/Twitter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/class_exercise/twiterdemo/Tweet.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/class_exercise/twiterdemo/Twitter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/classes/AngryBirds.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/classes/Developer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/classes/Developer_Finish.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/classes/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/comments/shebang.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/control/finish.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/grape/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/ImportsDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/IntelliJImports.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/imports/IntelliJImports/src/demo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/keywords/Application.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/numbers/numbers.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/operators/operators.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basics/scripts/myscript.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_7_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_assertj_assertj_core_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_codehaus_groovy_groovy_2_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_json_json_20140107.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_1_4_0_M3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_context_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_core_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_test_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_web_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_0_RC2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/modules/HelloGroovy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/modules/HelloGroovy_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/modules/HelloGroovy_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/src/main/groovy/com/therealdanvega/HelloGroovyApplication.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/HelloGroovy/src/test/groovy/com/therealdanvega/HelloGroovyApplicationTests.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.gradle/2.9/taskArtifacts/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.gradle/2.9/taskArtifacts/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.gradle/2.9/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.gradle/2.9/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.gradle/2.9/taskArtifacts/outputFileStates.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.gradle/2.9/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/libraries/Gradle__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/libraries/Gradle__org_codehaus_groovy_groovy_all_2_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/modules/debugdemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/modules/debugdemo_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/modules/debugdemo_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/src/main/java/com/therealdanvega/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/debugdemo/src/main/java/com/therealdanvega/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/spring-cli/Greeting.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bonus/spring-cli/greeting.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/builders-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/out/production/builders-demo/html/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/src/html.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/src/html/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/src/json.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/src/json/books.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/builders-demo/src/xml.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/out/production/exercise/exercise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/out/production/exercise/html/books.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/out/production/exercise/xml/books.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/src/exercise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/src/html.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/src/html/books.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/src/xml.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/exercise/src/xml/books.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/object-graph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/object-graph/src/books.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builders/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/Basics.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/Collections.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/Delegates.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/FluentInterfaces.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/FluentInterfaces2.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/Scope.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/curry.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/exercise.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/params.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../closures/vargs.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/exercise/Lists.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/exercise/Maps.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/exercise/RangeDays.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/lists/Lists.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/maps/Maps.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/ranges/DaysDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/ranges/ForLoops.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections/ranges/RangeDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conclusion/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/dates.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/dates/src/dates.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.gradle/2.9/taskArtifacts/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.gradle/2.9/taskArtifacts/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.gradle/2.9/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.gradle/2.9/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.gradle/2.9/taskArtifacts/outputFileStates.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.gradle/2.9/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/dataSources.ids" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/libraries/Gradle__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/libraries/Gradle__org_codehaus_groovy_groovy_all_2_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/modules/com.therealdanvega.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/modules/com.therealdanvega_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/modules/com.therealdanvega_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/src/main/groovy/twitter.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/db/src/main/groovy/withInstance.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.gradle/2.9/taskArtifacts/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.gradle/2.9/taskArtifacts/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.gradle/2.9/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.gradle/2.9/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.gradle/2.9/taskArtifacts/outputFileStates.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.gradle/2.9/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/libraries/Gradle__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/libraries/Gradle__org_codehaus_groovy_groovy_all_2_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/modules/gdk-exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/modules/gdk-exercise_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/modules/gdk-exercise_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/build/resources/main/exercise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/src/main/groovy/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/src/main/groovy/twitter.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/gdk-exercise/src/main/resources/exercise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/out/production/io/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/out/production/io/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/src/dirs.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/src/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/src/files.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/src/io.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/io/src/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/out/production/templates/dynamic-email.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/out/production/templates/static-email.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/src/dynamic-email.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/src/placeholders.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/src/simple.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/src/static-email.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/templates/templates.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/src/groovy/producer-consumer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/src/groovy/push-pop.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/src/groovy/threads.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/src/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/src/java/RunnableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdk/threads/threads.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../groovy-control-structures/conditional.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../groovy-control-structures/exceptions.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../groovy-control-structures/exercise.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../groovy-control-structures/looping.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../groovy-control-structures/truth.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/beans.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/out/production/beans/com/therealdanvega/GroovyBeans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/DoubleBean.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/Employee.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/EmployeeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/GroovyBeans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/beans/src/com/therealdanvega/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/classes.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/exercise/TweetDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/package-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/src/com/therealdanvega/Application.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/src/com/therealdanvega/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/src/com/therealdanvega/domain/IPhone.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/inheritance/src/com/therealdanvega/domain/Phone.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/src/com/therealdanvega/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/src/com/therealdanvega/domain/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/src/com/therealdanvega/service/IPersonService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/interfaces/src/com/therealdanvega/service/PersonService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/methods.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/package-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/src/com/therealdanvega/Application.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/src/com/therealdanvega/controller/HelloController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/src/com/therealdanvega/domain/Person.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/package-demo/src/com/therealdanvega/service/PersonService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/src/com/therealdanvega/app.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/src/com/therealdanvega/service/IPersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/src/com/therealdanvega/traits/Bird.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/src/com/therealdanvega/traits/FlyingAbility.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/src/com/therealdanvega/traits/SpeakingAbility.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop/traits/traits.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/categories.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/out/production/categories/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/src/StringCategory.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/src/catdemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/categories/src/time.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/out/production/exercise/exercise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/src/Developer.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/src/ExpandoDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/src/GroovyObjectDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/src/SquaredDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/exercise/src/exercise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/intercept-cache-invoke.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/intercept-cache-invoke/src/InterceptCacheInvoke.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/meta-class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/meta-class/src/MetaClassDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/mop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/out/production/mop/com/therealdanvega/MOP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/Employee.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/GetPropertyDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/InvokeMethodDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/MOP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/MissingMethodDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/PropertyMissingDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runtime-metaprogramming/mop/src/com/therealdanvega/SetPropertyDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/data-types/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/data-types/primitive.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/numbers/working_with_numbers.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/oo_exercise/AccountDemo.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/operator-overloading/accounts.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/operator-overloading/overloading.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/optional_type.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/regex/regex.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/strings/strings.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simple-data-types/wrapper_classes.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/out/production/parsing/data/books.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/out/production/parsing/data/sports.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/parsing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/src/data/books.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/src/data/sports.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/src/json.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/src/parseJSON.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/src/parsexml.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/parsing/src/xml.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/rest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/src/chuck.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-services/rest/src/simpleGET.groovy" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="809925714">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="groovy" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.file.types.edit" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/io.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dirs.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/files.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="352" />
+    <option name="y" value="134" />
+    <option name="width" value="1160" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="115. Working_Files_I-O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="115. Working_Files_I-O" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="115. Working_Files_I-O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="115. Working_Files_I-O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535630844119" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="io" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="115. Working_Files_I-O" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/io.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.io" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bffda28-f10b-49d8-adbb-76bf44e877b5" name="Default Changelist" comment="" />
+      <created>1535630443303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535630443303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="352" y="134" width="1160" height="720" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32879046" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32879046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/io.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dirs.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/files.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
