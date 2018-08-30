@@ -1,0 +1,7 @@
+
+@Singleton
+class DatabaseConnection {
+
+
+
+}
