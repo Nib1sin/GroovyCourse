@@ -1,0 +1,24 @@
+import groovy.json.JsonSlurper
+
+import it.sydema.laweb.utils.*
+import it.sydema.laweb.security.*;
+import java.util.Properties;
+import it.sydema.laweb.services.*
+import it.sydema.laweb.domain.Documento
+
+
+def errors = []
+
+def jsonSlurper = new JsonSlurper()
+//def guid = jsonSlurper.parseText(context.getVariable('ALLGTO')).guid
+def guid = 'aaaaaaaaaaaaaaaaaaa'
+
+def fileTemporaneo = context.getBean(FileManagerService.class)
+def f = fileTemporaneo.existsTemporaryFile(guid)
+
+if (!f){
+    errors << "Inserire il documento"
+}
+
+
+errors << guid
